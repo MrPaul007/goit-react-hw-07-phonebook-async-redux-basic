@@ -1,0 +1,27 @@
+.logo {
+    margin: 10px;
+    display: inline-block;
+    width: 35px;
+    height: 35px;
+    background-size: 100%;
+    cursor: pointer;
+    background-image: url("../../../images/logo.svg");
+}
+
+.link {
+    font-size: 20px;
+    color: aliceblue;
+    margin-right: 15px;
+    padding: 5px 15px;
+    text-decoration: none;
+    border: 1px solid;
+    border-radius: 10%;
+    background-color: rgb(42, 116, 165);
+}
+
+.linkActive {
+    composes: link;
+    color: rgb(42, 116, 165);
+    background-color: aliceblue;
+    border-color: rgb(42, 116, 165);
+}

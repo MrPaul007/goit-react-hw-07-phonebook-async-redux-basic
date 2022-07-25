@@ -1,0 +1,19 @@
+.item {
+    display: flex;
+    align-items: flex-end;
+    margin-bottom: 10px;
+}
+
+.image {
+    width: 75px;
+}
+
+.text {
+    font-size: 15px;
+    margin-bottom: 14px;
+    margin-left: 15px;
+}
+
+.button {
+    margin-left: 15px;
+}

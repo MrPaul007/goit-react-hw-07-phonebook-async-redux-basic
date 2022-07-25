@@ -1,0 +1,15 @@
+.cart {
+    margin-right: 0;
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    background-size: 100%;
+    cursor: pointer;
+    background-image: url("../../../images/cart.svg");
+}
+
+.cartActive {
+    composes: cart;
+    background-color: rgba(177, 196, 208, 0.662);
+    border-radius: 15%;
+}
