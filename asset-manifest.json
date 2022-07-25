@@ -1,13 +1,15 @@
 {
   "files": {
-    "main.css": "/goit-react-hw-07-phonebook-async-redux-basic/static/css/main.7acaea2f.css",
-    "main.js": "/goit-react-hw-07-phonebook-async-redux-basic/static/js/main.07d3183d.js",
+    "main.css": "/goit-react-hw-07-phonebook-async-redux-basic/static/css/main.aa270ab6.css",
+    "main.js": "/goit-react-hw-07-phonebook-async-redux-basic/static/js/main.c2dcd988.js",
+    "static/media/logo.svg": "/goit-react-hw-07-phonebook-async-redux-basic/static/media/logo.a060cbe85e50deda1d61.svg",
+    "static/media/cart.svg": "/goit-react-hw-07-phonebook-async-redux-basic/static/media/cart.fdc2b7fe0ec853e4f529.svg",
     "index.html": "/goit-react-hw-07-phonebook-async-redux-basic/index.html",
-    "main.7acaea2f.css.map": "/goit-react-hw-07-phonebook-async-redux-basic/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/goit-react-hw-07-phonebook-async-redux-basic/static/js/main.07d3183d.js.map"
+    "main.aa270ab6.css.map": "/goit-react-hw-07-phonebook-async-redux-basic/static/css/main.aa270ab6.css.map",
+    "main.c2dcd988.js.map": "/goit-react-hw-07-phonebook-async-redux-basic/static/js/main.c2dcd988.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.aa270ab6.css",
+    "static/js/main.c2dcd988.js"
   ]
 }
